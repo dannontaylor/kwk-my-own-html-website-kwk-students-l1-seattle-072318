@@ -1,0 +1,40 @@
+body {background-color: white;
+      font-size: 150%;}
+
+h1  {color: black;
+    text-align: center;
+    font-family: georgia;
+    font-size: 100px;}
+    
+h2  {color: black;
+    text-align: center;
+    font-family: georgia;
+    font-size: 100px;}
+    
+h3  {color: black;
+    text-align: center;
+    font-family: georgia;
+    font-size: 100px;}
+    
+h4  {color: black;
+    text-align: center;
+    font-family: georgia;
+    font-size: 100px;}
+    
+h5  {color: black;
+    text-align: center;
+    font-family: georgia;
+    font-size: 100px;}
+    
+h6  {color: black;
+    text-align: center;
+    font-family: georgia;
+    font-size: 100px;}
+    
+p   {color: black;
+    text-align: center;
+    font-family: georgia;
+    font-size: 100px;
+    transform: rotate(20deg);}
+    
+    
